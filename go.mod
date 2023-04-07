@@ -1,4 +1,4 @@
-module github.com/ipfs/go-log/v2
+module github.com/james-zhang-bing/go-log
 
 require (
 	github.com/mattn/go-isatty v0.0.14
